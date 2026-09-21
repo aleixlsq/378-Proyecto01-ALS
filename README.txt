@@ -7,6 +7,8 @@ Proyecto de la asignatura 378
 ·Relacion precio compra con reventa
 ·Tamaño de neumatico relacion a peso
 ·Caballos relacion a consumo
+·Precio potencia (Caballos)
+·Precio relacion a consumo
 
 
 
