@@ -9,7 +9,7 @@ Proyecto de la asignatura 378
 ·Precio relacion a consumo
 ·Relacion precio compra con reventa
 
-
+prueba
 
 
 Jordi Geladort, Albert Merida, Aleix Lopez
